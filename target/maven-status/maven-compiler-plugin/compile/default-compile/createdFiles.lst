@@ -1,0 +1,5 @@
+com\mycompany\gerenciadorveiculos\GerenciadorVeiculos.class
+com\mycompany\gerenciadorveiculos\Manutencao.class
+com\mycompany\gerenciadorveiculos\Veiculo.class
+com\mycompany\gerenciadorveiculos\Carro.class
+com\mycompany\gerenciadorveiculos\Moto.class
