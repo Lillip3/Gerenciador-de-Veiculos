@@ -1,6 +1,6 @@
 # 🚗 Gerenciador de Veículos 
 
-Este projeto é um sistema de **Gerenciamento de Frotas** desenvolvido em **Java**, que permite organizar e controlar veículos de uma empresa. Ele utiliza conceitos de **programação orientada a objetos**, como classes abstratas, interfaces, herança e polimorfismo.  
+Este projeto é um sistema de **Gerenciamento de Veículos** desenvolvido em **Java**, que permite organizar e controlar veículos de uma empresa. Ele utiliza conceitos de **programação orientada a objetos**, como classes abstratas, interfaces, herança e polimorfismo.  
 
 ## ✨ Funcionalidades  
 - Cadastro de veículos (carros e motos) com informações como **placa** e **ano**.  
